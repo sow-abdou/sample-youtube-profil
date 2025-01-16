@@ -20,7 +20,7 @@ const links = [
     },
 
     {
-        href: "https://instagram.com/abdousow_404",
+        href: "https://instagram.com/abdou_sow404",
         label:"Instagram",
         icon : <FaInstagram className="w-6 h-6 text-blue-500" />
     }
