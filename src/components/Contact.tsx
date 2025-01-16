@@ -2,25 +2,25 @@ import { FaGithub, FaInstagram, FaTwitter, FaYoutube } from "react-icons/fa"
 
 const links = [
     {
-        href: "https://twitter.com/@huxnwebdev",
+        href: "#",
         label:"Twitter",
         icon : <FaTwitter className="w-6 h-6 text-blue-500" />
     },
 
     {
-        href: "https://youtube.com/@huxnwebdev",
+        href: "#",
         label:"Youtube",
         icon : <FaYoutube className="w-6 h-6 text-blue-500" />
     },
 
     {
-        href: "https://github.com/@huxnwebdev",
+        href: "https://github.com/sow-abdou",
         label:"Github",
         icon : <FaGithub className="w-6 h-6 text-blue-500" />
     },
 
     {
-        href: "https://instagram.com/@huxnwebdev",
+        href: "https://instagram.com/abdousow_404",
         label:"Instagram",
         icon : <FaInstagram className="w-6 h-6 text-blue-500" />
     }
